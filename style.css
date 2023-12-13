@@ -1,20 +1,22 @@
 .corpo{
-     background-color: mediumorchid;
-      color: fuchsia;
+     background-color: rgb(211, 135, 230);
+      color: background-color yellow;
       text-align: center;
       border: 10px;
        border-style: groove;
-}
+          border-style: rgb(162, 255, 162);
         #link{
             color: pink;
             text-decoration: none;
-   color: mediumpurple;     }
-       font-size:15px;
-      
+            color: mediumpurple;
+            font-size:15px;
+        }
 
     #link{
      color: chocolate;
        text-decoration: none;
-
-
       
+
+
+       
+
